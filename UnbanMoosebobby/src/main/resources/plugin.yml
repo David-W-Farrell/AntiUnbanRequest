@@ -1,7 +1,0 @@
-name: AntiUnbanRequestPlugin
-version: ${project.version}
-main: me.plugins.antiunbanrequests.AntiUnbanRequestListener
-api-version: 1.15
-authors: [ David Farrell ]
-description: Plugin that kills players for request unbans on another players behalf
-website:
