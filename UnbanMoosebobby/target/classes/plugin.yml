@@ -1,7 +1,7 @@
-name: UnbanMoosebobbyApp
+name: AntiUnbanRequestPlugin
 version: 1.0-SNAPSHOT
-main: me.civwar.unbanmoosebobbyapp.UnbanMoosebobbyApp
+main: me.plugins.antiunbanrequests.AntiUnbanRequestListener
 api-version: 1.15
-authors: [ Acid_Monkey ]
-description: Program that kills people when they say unban moosebobbby in server chat
-website: civwars.net
+authors: [ David Farrell ]
+description: Plugin that kills players for request unbans on another players behalf
+website:
