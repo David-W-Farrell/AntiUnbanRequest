@@ -1,0 +1,7 @@
+name: UnbanMoosebobbyApp
+version: ${project.version}
+main: me.civwar.unbanmoosebobbyapp.UnbanMoosebobbyApp
+api-version: 1.15
+authors: [ David Farrell ]
+description: Program that kills people when they say unban moosebobbby in server chat
+website: civwars.net

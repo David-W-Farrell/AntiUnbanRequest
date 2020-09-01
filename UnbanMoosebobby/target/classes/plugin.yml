@@ -1,0 +1,7 @@
+name: UnbanMoosebobbyApp
+version: 1.0-SNAPSHOT
+main: me.civwar.unbanmoosebobbyapp.UnbanMoosebobbyApp
+api-version: 1.15
+authors: [ Acid_Monkey ]
+description: Program that kills people when they say unban moosebobbby in server chat
+website: civwars.net
