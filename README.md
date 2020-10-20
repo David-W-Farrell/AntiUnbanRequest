@@ -1,4 +1,10 @@
 # AntiUnbanRequest
-Minecraft Spigot 1.15.2 plugin that kills a player when they ask for an unban on behalf another player
 
-Currently does not support a config, or multiple banned players. This will be changed in the future. For now to change the banned player it must be done in the Listener implementation.
+Decription
+  - Minecraft Spigot 1.15.2 plugin that kills a player when they ask for an unban on behalf another player
+
+Requirements
+  - Spigot 1.15.2
+
+Running
+  - place .jar inside the plugins folder for your server.
